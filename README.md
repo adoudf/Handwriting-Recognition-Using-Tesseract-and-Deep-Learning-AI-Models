@@ -109,4 +109,4 @@ Future versions may implement:
 
 ## License
 
-This project is open-source and distributed under the MIT License.
+This project is open-source 
