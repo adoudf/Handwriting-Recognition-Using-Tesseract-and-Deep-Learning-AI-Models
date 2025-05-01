@@ -1,0 +1,298 @@
+Image,Extracted_Text,Ground_Truth
+test_image.jpg," 
+
+ 
+",Actual handwritten text
+test_image2.jpg,"ABCDEFGHISA LM
+
+NOPORSTUVWKYZ
+abedefahistlm
+MOPar&tUvw yz
+",Actual handwritten text
+test_image.jpg,"oe athe Lind
+Poe Mie pal 5 fede Bal
+5 pdpairknerd ef Mtn s_hkk
+
+i Lol os, Ide Oo
+
+3 + and) G0 UV
+
+-, _ “eagle Z “sal
+Keep og diag, re ae
+AWS iy Nhe — a
+a ER
+",Actual handwritten text
+test_image2.jpg,"ABCDEFGHISA LM
+NOPORS TUVWKYZ
+abedefahistlm
+MOPar&tUvw yz
+",Actual handwritten text
+test_image.jpg," 
+
+ 
+",Actual handwritten text
+test_image2.jpg,"ABCDEFGHISA LM
+
+NOPORSTUVWKYZ
+abedefahistlm
+MOPar&tUvw yz
+",Actual handwritten text
+test_image.jpg," 
+
+ 
+
+ 
+
+ 
+
+ 
+",Actual handwritten text
+test_image2.jpg,"ABCDEFGHISA LM
+
+NOPORSTUVWKY Z
+abedefahistlm
+MOPar&tUvw yz
+",Actual handwritten text
+test_image.jpg,"oe athe Lind
+Poe Mie pal 5 fede Bal
+5 pdpairknerd ef Mtn s_hkk
+
+i Lol os, Ide Oo
+
+3 + and) G0 UV
+
+-, _ “eagle Z “sal
+Keep og diag, re ae
+AWS iy Nhe — a
+a ER
+",Actual handwritten text
+test_image2.jpg,"ABCDEFGHISA LM
+NOPORS TUVWKYZ
+abedefahistlm
+MOPar&tUvw yz
+",Actual handwritten text
+test_image.jpg,"TW
+
+FCA _
+
+May Lien 4
+
+den
+
+ZEA. |
+
+a ee,
+
+Ai)
+
+“Elo
+
+a EIST
+
+Te —-
+
+4 Ipass!}
+
+S Fave, — haven
+
+jeseae se
+
+Thane Le. aad
+
+Sree)
+
+re tive
+
+Fic
+
+pee
+
+WS iv lik
+
+-E.R
+",Actual handwritten text
+test_image2.jpg,"ABCDEFGHISA LM
+
+NOPORS TUVWXYZ
+
+abedefahistlm
+
+MOPar&tUvw yz
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tugs
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tugs
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tugs
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tugs
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tugs
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Fst
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tet
+",Actual handwritten text
+test_image.jpg,"“S
+",Actual handwritten text
+test_image2.jpg,"Tugs
+",Actual handwritten text
+test_image.jpg,"“S
+",Actual handwritten text
+test_image2.jpg,"Tugs
+",Actual handwritten text
+test_image.jpg,"“S
+",Actual handwritten text
+test_image2.jpg,"Tugs
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tet
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tet
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tet
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tet
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tet
+",Actual handwritten text
+test_image.jpg,"aS
+",Actual handwritten text
+test_image2.jpg,"Tet
+",Actual handwritten text
+sample_2_upper.jpg,"=
+",A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+sample_2_upper.jpg,"=
+",A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+sample_2_upper.jpg,"=
+",A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+sample_2_upper.jpg,"=
+",Actual handwritten text
+sample_2_lower.jpg,"=
+",Actual handwritten text
+sample_3_upper.jpg,"=
+",Actual handwritten text
+test_image2.jpg,"Tet
+",Actual handwritten text
+sample_4_upper.png,"‘|
+",Actual handwritten text
+sample_1_upper.jpg,"|
+",Actual handwritten text
+sample_1_lower.jpg,"|
+",Actual handwritten text
+sample_5_lower.jpeg,"|
+",Actual handwritten text
+sample_5_upper.jpeg,"* guesses
+",Actual handwritten text
+sample_3_lower.jpg,"-
+",Actual handwritten text
+sample_4_lower.jpg,"|
+",Actual handwritten text
+sample_4_upper.png,‘|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_4_upper.png,‘|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_4_upper.png,‘|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_1_lower.jpg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_upper.jpg,|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_2_lower.jpg,=,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_2_upper.jpg,=,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_3_lower.jpg,-,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_3_upper.jpg,=,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_4_lower.jpg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_4_upper.png,‘|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_5_lower.jpeg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_lower.jpg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_upper.jpg,|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_2_lower.jpg,=,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_2_upper.jpg,=,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_3_lower.jpg,-,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_3_upper.jpg,=,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_4_lower.jpg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_4_upper.png,‘|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_5_lower.jpeg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_lower.jpg,,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_upper.jpg,|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_2_lower.jpg,,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_2_upper.jpg,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_3_lower.jpg,;,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_3_upper.jpg,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_4_upper.png,‘|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_4_upper.png,‘|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_1_lower.jpg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_upper.jpg,|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_2_lower.jpg,=,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_2_upper.jpg,=,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_3_lower.jpg,-,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_3_upper.jpg,=,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_4_lower.jpg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_4_upper.png,‘|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_5_lower.jpeg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_lower.jpg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_upper.jpg,|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_2_lower.jpg,=,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_2_upper.jpg,=,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_3_lower.jpg,-,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_3_upper.jpg,=,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_4_lower.jpg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_4_upper.png,‘|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_5_lower.jpeg,|,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_lower.jpg,Wh,a b c d e f g h i j k l m n o p q r s t u v w x y z,3.77%
+sample_1_upper.jpg,ll,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_2_lower.jpg,=,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_2_upper.jpg,=,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_3_lower.jpg,z,a b c d e f g h i j k l m n o p q r s t u v w x y z,3.85%
+sample_3_upper.jpg,z,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_4_lower.jpg,™,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_4_upper.png,|,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_5_lower.jpeg,Nh,a b c d e f g h i j k l m n o p q r s t u v w x y z,3.77%
+sample_1_lower.jpg,,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_lower.jpg,,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_upper.jpg,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_2_lower.jpg,=,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_2_upper.jpg,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_3_lower.jpg,,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_3_upper.jpg,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_1_lower.jpg,: ach oF Ae ¢ qT | wae a ae cae Lae : oo. | °,a b c d e f g h i j k l m n o p q r s t u v w x y z,29.17%
+sample_1_upper.jpg,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_2_lower.jpg,.,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_2_upper.jpg,“ ° ° - : - |,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,18.75%
+sample_3_lower.jpg,". . , my",a b c d e f g h i j k l m n o p q r s t u v w x y z,16.95%
+sample_3_upper.jpg,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_4_lower.jpg,", : |",a b c d e f g h i j k l m n o p q r s t u v w x y z,7.14%
+sample_4_upper.png,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_5_lower.jpeg,,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_lower.jpg,,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_1_upper.jpg,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_2_lower.jpg,,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_2_upper.jpg,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_1_lower.jpg,: ach oF Ae ¢ qT | wae a ae cae Lae : oo. | °,a b c d e f g h i j k l m n o p q r s t u v w x y z,29.17%
+sample_1_upper.jpg,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_2_lower.jpg,.,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%
+sample_2_upper.jpg,“ ° ° - : - |,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,18.75%
+sample_3_lower.jpg,". . , my",a b c d e f g h i j k l m n o p q r s t u v w x y z,16.95%
+sample_3_upper.jpg,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_4_lower.jpg,", : |",a b c d e f g h i j k l m n o p q r s t u v w x y z,7.14%
+sample_4_upper.png,,A B C D E F G H I J K L M N O P Q R S T U V W X Y Z,0.00%
+sample_5_lower.jpeg,,a b c d e f g h i j k l m n o p q r s t u v w x y z,0.00%

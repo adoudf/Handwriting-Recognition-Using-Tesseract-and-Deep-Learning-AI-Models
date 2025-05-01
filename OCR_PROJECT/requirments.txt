@@ -1,0 +1,6 @@
+# List of dependencies, to install remove this line, then:  pip3 install -r requirements.txt on cmd
+numpy
+opencv-python
+pytesseract
+pandas
+scikit-learn
